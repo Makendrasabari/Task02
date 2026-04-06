@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.convicted {
+  background-color: lightblue;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.notConvicted {
+  background-color: lightgreen;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.empty {
+  color: red;
+  font-weight: bold;
+}
